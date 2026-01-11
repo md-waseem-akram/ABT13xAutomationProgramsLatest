@@ -1,4 +1,4 @@
-package com.mdwaseemakram;
+package com.mdwaseemakram.ex_01_RA_Basics;
 
 import io.restassured.RestAssured;
 

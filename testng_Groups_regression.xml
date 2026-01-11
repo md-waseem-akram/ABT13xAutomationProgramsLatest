@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/Java-workspace/ABT13xAutomationProgramsLatest">
+        <groups>
+            <run>
+                <include name="regression" ></include>
+                <include name="smoke"></include>
+            </run>
+
+        </groups>
+
+        <classes>
+            <class name="com.mdwaseemakram.ex_05_TestNG_Examples.APITesting_Groups">
+
+            </class>
+        </classes>
+    </test>
+</suite>
